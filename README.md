@@ -20,14 +20,6 @@ First things first, I'm not good at introductions haha but I do want to let peop
 * API Rest
 * Azure fundamentals 
 
-Things I like to experiment in the near future
-* Exploring flutter capabilities as a multiplatform framework
-* Xamarin (mostly as a way to compare it to flutter) 
-* Python
-* Tensor flow 
-* Docker 
-* AWS
-* Azure dev ops
   
 ## Contact
 [Linkedin](https://www.linkedin.com/in/julietteru/)
